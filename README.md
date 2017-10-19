@@ -19,4 +19,4 @@ Once you have generated your predictions, fork the repository, and commit your p
 
 ## Sample Code
 
-It is recommended that you use Python3 for this challenge; sample code is provided in the repository to help you get started with reading the data. However, feel free to use any programming environment you like if there is a specific stack that you prefer and you are comfortable parsing the data yourself. 
+It is recommended that you use Python3 for this challenge; sample code is provided in the repository to help you get started with reading the data, training/evaluating a model, and outputting a sample submission file. However, feel free to use any programming environment you like if there is a specific stack that you prefer and you are comfortable parsing in/out the data yourself. 
