@@ -8,9 +8,9 @@ The following repository contains a sample training dataset from Prosper's Lendi
 
 Your model will be tested using the provided test dataset. Notice the "LoanStatus" column is missing- your job is to generate these predictions! They will be compared to the actual values, which are currently hidden. Generate your predictions in a csv file, in the following format: 
 
-ListingKey1,Prediction1
-ListingKey2,Prediction2
-ListingKey3,Prediction3
+ListingKey1,Prediction1 
+ListingKey2,Prediction2 
+ListingKey3,Prediction3 
 ...
 
 Make sure to preserve the order of the ListingKeys as listed in the test dataset when making your predictions. Your answers will simply be diffed with the correct answer set to determine your score. Note that there is no space between the comma and the prediction. 
